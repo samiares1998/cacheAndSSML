@@ -1,0 +1,5 @@
+<speak>
+    Hello, this is a test SSML string.
+    <break time="500ms"/>
+    I am demonstrating a pause of 500 milliseconds.
+</speak>
